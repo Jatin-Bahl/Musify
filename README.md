@@ -32,5 +32,6 @@ We welcome contributions to the Khabar project. If you would like to contribute,
 
 ## Screenshot
 ![Musify](MusifyScreenshot.JPG)
+![Musify](MusifyAboutScreenshot.JPG)
 
 
